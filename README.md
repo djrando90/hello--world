@@ -1,2 +1,2 @@
 # hello--world
-school projects
+coursera projects
