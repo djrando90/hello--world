@@ -1,2 +1,2 @@
 # hello--world
-coursera projects
+coursera project
